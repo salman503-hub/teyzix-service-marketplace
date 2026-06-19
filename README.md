@@ -1,4 +1,4 @@
-# Teyzix Core Multi-Vendor Service Marketplace Platform
+ Teyzix Core Multi-Vendor Service Marketplace Platform
 
 A comprehensive service marketplace platform simulating real-world portals like Fiverr and Upwork. Customers can post open project requests or browse listed services to hire providers directly, track active contract milestones through a visual status pipeline, chat with freelancers in real-time, submit reviews, and view key metrics via role-based dashboard screens.
 
